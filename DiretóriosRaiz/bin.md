@@ -1,0 +1,1 @@
+contém programas essenciais para o sistema operacional

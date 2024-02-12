@@ -1,0 +1,1 @@
+Este comando é usado para criar um novo diretório. Por exemplo, `mkdir nome_do_diretorio` criará um novo diretório com o nome especificado na sua localização atual.

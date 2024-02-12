@@ -1,0 +1,1 @@
+No Linux, cada usuário tem um [[Diretório]] de usuário pessoal, localizado em `/home/nome_do_usuário`, onde "nome_do_usuário" é o nome de usuário do usuário. Este diretório é frequentemente utilizado para armazenar os arquivos pessoais do usuário.

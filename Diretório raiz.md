@@ -1,0 +1,1 @@
+O [[Diretório]] raiz (/) é o ponto de partida da hierarquia do sistema de arquivos. Todos os outros diretórios e arquivos estão abaixo dele na hierarquia.

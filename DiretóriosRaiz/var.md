@@ -1,0 +1,1 @@
+armazena dados variáveis como logs e caches

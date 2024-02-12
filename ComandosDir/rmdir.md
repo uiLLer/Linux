@@ -1,0 +1,1 @@
+O comando `rmdir` é usado para remover diretórios vazios. Tenha cuidado ao usá-lo, pois ele não pode remover diretórios que contenham arquivos.
